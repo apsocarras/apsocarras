@@ -1,5 +1,5 @@
 ### Hello there! 👋 I'm [Alejandro](http://alexsocarras.com/). 
-I'm a rising graduate of the Data Engineering Program at [Epicodus](https://www.epicodus.com/), headed by the folks at [Data Stack Academy](https://www.datastack.academy/). Here you can check out some of the projects I've been working on, using Python, SQL, DBT, Google Cloud, and BigQuery. Rigt now we're learning Airflow and Spark.
+I'm a rising graduate of the Data Engineering Program at [Epicodus](https://www.epicodus.com/), headed by the folks at [Data Stack Academy](https://www.datastack.academy/). Here you can check out some of the projects I've been working on, using Python, SQL, DBT, Google Cloud, and BigQuery. Right now we're learning Airflow and Spark.
 
 
 
