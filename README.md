@@ -8,14 +8,8 @@
 ### I'm a rising graduate of the Data Engineering Program at [Epicodus](https://www.epicodus.com/), headed by the fine folks at [Data Stack Academy](https://www.datastack.academy/). Click my name to check out my personal page, or stay here to look at my projects in GitHub. 
 
 
-### **Current Tech Stack**
-* Python 
-* SQL
-* DBT
-* Google Cloud Platform
-* BigQuery
-* Airflow
-* Spark
+## **Current Tech Stack**:
+### Python , SQL, DBT, Google Cloud Platform, BigQuery, Airflow, Spark
 
 
 
