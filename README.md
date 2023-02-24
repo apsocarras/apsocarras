@@ -24,20 +24,23 @@ Python | <img src="img/sql.png" alt="SQL/DB Icon" width="25px"> SQL /<img src="i
 <table style="width:600px" align="center">
   <tr>
     <td style="width:600px">
-      <img src="img/alaska.gif" alt="alaska-etl-gif" height="130px">
+      <a href="https://github.com/apsocarras/alaska-etl"><img src="img/alaska.gif" alt="alaska-etl-gif" height="130px"></a>
       <h3 align="center"><i>alaska-etl</i></h3>
     </td>
     <td style="width:800px">
-      <img src="img/city_crime_dash2.gif" alt="alaska-etl-gif" height="130px">
+      <a href="https://github.com/apsocarras/city-crime">
+      <img src="img/city_crime_dash2.gif" alt="city-crime-gif" height="130px"></a>
       <h3 align="center"><i>city-crime</i></h3>
     </td>
     <td style="width:600px">
-      <img src="img/airflow-modal.png" alt="airflow-review" height="130px">
+      <a href="https://github.com/apsocarras/airflow-review2">
+      <img src="img/airflow-modal.png" alt="airflow-review2" height="130px"></a>
       <h3 align="center"><i>airflow-review2</i></h3>
     </td>
     <td style="width:600px">
-      <img src="img/spark_review.png"  height="130px">
-      <h3 align="center"><i>spark-review2</i></h3>
+      <a href="https://github.com/apsocarras/spark-review">
+      <img src="img/spark_review.png"  height="130px"></a>
+      <h3 align="center"><i>spark-review</i></h3>
     </td>
   </tr>
 </table>
