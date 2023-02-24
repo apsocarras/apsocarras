@@ -2,7 +2,9 @@
 
 
 <p align="center">
-  <img src="img/buffaloselfie.jpg">
+  <a href="https://www.yellowstonepark.com/things-to-do/wildlife/lamar-hayden-valley/">
+    <img src="img/buffaloselfie.jpg" alt="Buffalo Selfie">
+  </a>
 </p>
 
 ### I'm a rising graduate of the Data Engineering Program at [Epicodus](https://www.epicodus.com/), headed by the fine folks at [Data Stack Academy](https://www.datastack.academy/). Prior to that, I was doing data analysis in public health. In between, I was sleeping out of my car going cross-country (pictured).
