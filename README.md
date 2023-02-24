@@ -16,10 +16,26 @@ Python | <img src="img/sql.png" alt="SQL/DB Icon" width="25px"> SQL /<img src="i
 
 ---
 <p align="center">
-<img src="img/alaska.gif" alt="alaska-etl-gif" height="150px" width="150px"><img src="img/city_crime_dash2.gif" alt="alaska-etl-gif" height="150px" width="300px"><img src="img/airflow-modal.png" alt="alaska-etl-gif" height="150px" width="150px">
-<img src="img/spark_review.png" alt="alaska-etl-gif" height="150px" width="150px">  
+<img src="img/alaska.gif" alt="alaska-etl-gif" height="150px" width="150px"><img src="img/city_crime_dash2.gif" alt="city-crime" height="150px" width="300px"><img src="img/airflow-modal.png" alt="airflow-review" height="150px" width="150px">
+<img src="img/spark_review.png" alt="spark-review" height="150px" width="150px">  
 </p>
 
+<table style="width:600px" align="center">
+  <tr>
+    <td style="width:400px">
+      <img src="img/alaska.gif" alt="alaska-etl-gif" height="130px">
+    </td>
+    <td style="width:400px">
+      <img src="img/city_crime_dash2.gif" alt="alaska-etl-gif" height="130px">
+    </td>
+    <td style="width:400px">
+      <img src="img/airflow-modal.png" alt="airflow-review" height="130px">
+    </td>
+    <td style="width:400px">
+      <img src="img/spark_review.png"  height="130px">
+      </td>
+  </tr>
+</table>
 
 <!-- **apsocarras/apsocarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
