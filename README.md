@@ -15,7 +15,7 @@
 Python | <img src="img/sql.png" alt="SQL/DB Icon" width="25px"> SQL /<img src="img/mysql.svg" alt="MySQL Icon" width="30px">MySQL | <img src="img/dbt.png" alt="DBT Logo" width="20px"> DBT |<img src="img/gcp.png" alt="Google Cloud Platform Logo" width="40px">GCP | <img src="img/airflow.jpg" alt="Airflow" width="25px"> Airflow | <img src="img/spark.png" alt="Spark Logo" width="45px"> Spark</h2>
 
 ---
-<p>
+<p align="center">
 <img src="img/alaska.gif" alt="alaska-etl-gif" height="150px" width="150px"><img src="img/city_crime_dash2.gif" alt="alaska-etl-gif" height="150px" width="300px"><img src="img/airflow-modal.png" alt="alaska-etl-gif" height="150px" width="150px">
 <img src="img/spark_review.png" alt="alaska-etl-gif" height="150px" width="150px">  
 </p>
