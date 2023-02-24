@@ -9,7 +9,7 @@
 
 ### I'm a rising graduate of the Data Engineering Program at [Epicodus](https://www.epicodus.com/), headed by the fine folks at [Data Stack Academy](https://www.datastack.academy/). 
 
-#### Prior to that, I was doing data analysis in public health. In between, I was sleeping out of my car going cross-country (pictured).
+#### Prior to that, I was doing data analysis in public health. In between, I was sleeping out of my car going cross-country (pictured). Here's my current tech stack and some stuff I've been working on. Click on my name to see my personal site and resume (lazy mice click [here](https://alexsocarras.com).)
 ---
 
 <h2 align="center"><img src="img/python.svg" alt="Python Logo" width="25px">
