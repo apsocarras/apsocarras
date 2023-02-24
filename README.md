@@ -5,12 +5,12 @@
   <img src="img/buffaloselfie.jpg" />
 </p>
 
-### I'm a rising graduate of the Data Engineering Program at [Epicodus](https://www.epicodus.com/), headed by the fine folks at [Data Stack Academy](https://www.datastack.academy/). Click my name to check out my personal page, or stay here to look at my projects in GitHub. 
+### I'm a rising graduate of the Data Engineering Program at [Epicodus](https://www.epicodus.com/), headed by the fine folks at [Data Stack Academy](https://www.datastack.academy/). Prior to that I was doing data analysis in public health. In between, I was sleeping out of my car going cross-country (pictured).
+ 
+<br>
 
-
-## **Current Tech Stack**:
-### Python , SQL, DBT, Google Cloud Platform, BigQuery, Airflow, Spark
-
+<h2>Current Tech Stack</h2>
+<h3>Python, SQL, DBT, Google Cloud Platform, BigQuery, Airflow, Spark</h3>
 
 
 
