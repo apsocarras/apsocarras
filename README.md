@@ -1,4 +1,4 @@
-<h2 align="center">Hello There! 👋 I'm <a href="https://alexsocarras.com">Alejandro</a>. </h2>
+<h1 align="center">Hello There! 👋 I'm <a href="https://alexsocarras.com">Alejandro</a>. </h1>
 
 
 <p align="center">
