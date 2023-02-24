@@ -7,7 +7,7 @@
   </a>
 </p>
 
-### I'm a rising graduate of the Data Engineering Program at [Epicodus](https://www.epicodus.com/), headed by the fine folks at [Data Stack Academy](https://www.datastack.academy/). Prior to that, I was doing data analysis in public health. In between, I was sleeping out of my car going cross-country (pictured).
+### I'm a rising graduate of the Data Engineering Program at [Epicodus](https://www.epicodus.com/), headed by the fine folks at [Data Stack Academy](https://www.datastack.academy/). Prior to that, I was doing data analysis in public health. In between, I was sleeping out of my car going cross-country (pictured). Here's my current tech stack and some stuff I've been working on.
  
 ---
 
@@ -22,19 +22,19 @@ Python | <img src="img/sql.png" alt="SQL/DB Icon" width="25px"> SQL /<img src="i
 
 <table style="width:600px" align="center">
   <tr>
-    <td style="width:400px">
+    <td style="width:600px">
       <img src="img/alaska.gif" alt="alaska-etl-gif" height="130px">
       <h3 align="center"><i>alaska-etl</i></h3>
     </td>
-    <td style="width:400px">
+    <td style="width:800px">
       <img src="img/city_crime_dash2.gif" alt="alaska-etl-gif" height="130px">
       <h3 align="center"><i>city-crime</i></h3>
     </td>
-    <td style="width:400px">
+    <td style="width:600px">
       <img src="img/airflow-modal.png" alt="airflow-review" height="130px">
       <h3 align="center"><i>airflow-review2</i></h3>
     </td>
-    <td style="width:400px">
+    <td style="width:600px">
       <img src="img/spark_review.png"  height="130px">
       <h3 align="center"><i>spark-review2</i></h3>
     </td>
