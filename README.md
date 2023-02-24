@@ -1,10 +1,21 @@
-## Hello there! 👋 I'm [Alejandro](http://alexsocarras.com/). 
+<h2 align="center">Hello There! 👋 I'm <a href="https://alexsocarras.com">Alejandro</a>. </h2>
+
 
 <p align="center">
   <img src="img/buffaloselfie.jpg" />
 </p>
 
-I'm a rising graduate of the Data Engineering Program at [Epicodus](https://www.epicodus.com/), headed by the folks at [Data Stack Academy](https://www.datastack.academy/). Here you can check out some of the projects I've been working on, using Python, SQL, DBT, Google Cloud, and BigQuery. Right now we're learning Airflow and Spark.
+### I'm a rising graduate of the Data Engineering Program at [Epicodus](https://www.epicodus.com/), headed by the fine folks at [Data Stack Academy](https://www.datastack.academy/). Click my name to check out my personal page, or stay here to look at my projects in GitHub. 
+
+
+### **Current Tech Stack**
+* Python 
+* SQL
+* DBT
+* Google Cloud Platform
+* BigQuery
+* Airflow
+* Spark
 
 
 
