@@ -35,6 +35,20 @@ Python | <img src="img/sql.png" alt="SQL/DB Icon" width="25px"> SQL /<img src="i
       <img src="img/spark_review.png"  height="130px">
       </td>
   </tr>
+    <td style="width:400px">
+      <h3 align="center"><i>alaska-etl</i></h3>
+    </td>
+    <td style="width:400px">
+      <h3 align="center"><i>city-crime</i></h3>
+    </td>
+    <td style="width:400px">
+      <h3 align="center"><i>airflow-review2</i></h3>
+    </td>
+    <td style="width:400px">
+      <h3 align="center"><i>spark-review2</i></h3>
+    </td>
+  <tr>
+  </tr>
 </table>
 
 <!-- **apsocarras/apsocarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
