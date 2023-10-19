@@ -13,7 +13,7 @@
 
 There was also a brief window where I was sleeping out of my car going cross-country (pictured). 
 
-Click on my name to see my personal site and resume. 
+Click on my name to see my personal site and resume. Check out my projects below for a sample of what I completed at the bootcamp.
 
 ---
 
