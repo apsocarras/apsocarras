@@ -7,9 +7,10 @@
   </a>
 </p>
 
-### I'm a Data Engineering student at [Epicodus](https://www.epicodus.com/) learning from the fine folks at [Data Stack Academy](https://www.datastack.academy/). 
+### I'm a Data Engineering Fellow at [Tech Impact](https://www.techimpact.org/). 
 
-#### Prior to that, I was doing data analysis in public health. In between, I was sleeping out of my car going cross-country (pictured). Click on my name to see my personal site and resume (lazy mice click [here](https://alexsocarras.com)).
+#### I pivoted here from data analysis in public health after completing the bootcamp at [Data Stack Academy](https://datastack.academy/). There was also a brief window where I was sleeping out of my car going cross-country (pictured). Click on my name to see my personal site and resume. 
+
 ---
 
 <h2 align="center"><img src="img/python.svg" alt="Python Logo" width="25px">
