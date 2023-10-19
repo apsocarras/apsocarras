@@ -9,7 +9,11 @@
 
 ### I'm a Data Engineering Fellow at [Tech Impact](https://www.techimpact.org/). 
 
-#### I pivoted here from data analysis in public health after completing the bootcamp at [Data Stack Academy](https://datastack.academy/). There was also a brief window where I was sleeping out of my car going cross-country (pictured). Click on my name to see my personal site and resume. 
+#### I pivoted here from data analysis in public health after completing the bootcamp at [Data Stack Academy](https://datastack.academy/). 
+
+There was also a brief window where I was sleeping out of my car going cross-country (pictured). 
+
+Click on my name to see my personal site and resume. 
 
 ---
 
