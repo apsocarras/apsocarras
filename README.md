@@ -6,6 +6,7 @@
     <img src="img/buffaloselfie.jpg" alt="Buffalo Selfie">
   </a>
 </p>
+<h3 align="center">(View my current portfolio <a href="https://alexsocarras.com">here</a>)</h2>
 
 ### I'm a Data Engineering Fellow at [Tech Impact](https://www.techimpact.org/). 
 
