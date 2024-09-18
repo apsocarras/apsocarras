@@ -8,7 +8,7 @@
 </p>
 <h3 align="center">(View my current portfolio <a href="https://alexsocarras.com">here</a>)</h2>
 
-### I'm a Data Engineering Fellow at [Tech Impact](https://www.techimpact.org/). 
+### I'm a Data Engineer at [Tech Impact](https://www.techimpact.org/). 
 
 #### I pivoted here from data analysis in public health after completing the bootcamp at [Data Stack Academy](https://datastack.academy/). 
 
