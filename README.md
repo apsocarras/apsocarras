@@ -1,20 +1,19 @@
-<h1 align="center">Hello There! 👋 I'm <a href="https://alexsocarras.com">Alex</a> <sub><sub><sub> (Alejandro) (اسكندر) </sub></sub> </sub> </h1>
-
+<h1 align="center">Hello There! 👋 I'm <a href="https://alexsocarras.com">Alex</a> </h1>
 
 <p align="center">
   <a href="https://www.yellowstonepark.com/things-to-do/wildlife/lamar-hayden-valley/">
     <img src="img/buffaloselfie.jpg" alt="Buffalo Selfie">
   </a>
 </p>
-<h3 align="center">(View my current portfolio <a href="https://alexsocarras.com">here</a>)</h2>
+<!-- <h3 align="center">(View my current portfolio <a href="https://alexsocarras.com">here</a>)</h2> -->
 
 ### I'm a Data Engineer at [Tech Impact](https://www.techimpact.org/). 
 
-#### I pivoted here from data analysis in public health after completing the bootcamp at [Data Stack Academy](https://datastack.academy/). 
+#### I was a data analyst working in public health before taking a turn towards software development.
 
 There was also a brief window where I was sleeping out of my car going cross-country (pictured). 
 
-Click on my name to see my personal site and resume. Check out my projects below for a sample of what I completed at the bootcamp.
+I'm currently in the process of revamping my personal site and Github over the Thanksgiving holiday -- in the meantime, you can check out some rather outdated repos I made the first time I hit the tech job market. 
 
 ---
 
