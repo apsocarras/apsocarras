@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hello There! 👋 I'm <a href="https://alexsocarras.com">Alex</a> </h1>
 
 <p align="center">
@@ -5,15 +6,18 @@
     <img src="img/buffaloselfie.jpg" alt="Buffalo Selfie">
   </a>
 </p>
+
 <!-- <h3 align="center">(View my current portfolio <a href="https://alexsocarras.com">here</a>)</h2> -->
 
-### I'm a Data Engineer at [Tech Impact](https://www.techimpact.org/). 
+Data Engineer / Developer at [World Central Kitchen](https://worldcentralkitchen.org/) 
 
+<!-- 
 #### I was a data analyst working in public health before taking a turn towards software development.
 
 There was also a brief window where I was sleeping out of my car going cross-country (pictured). 
+--> 
 
-Currently in the process of revamping my personal site and Github over the holidays.
+Currently in the process of revamping my personal site and Github.
 
 <!-- --- --> 
 
