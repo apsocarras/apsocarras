@@ -17,7 +17,7 @@ Data Engineer / Developer at [World Central Kitchen](https://worldcentralkitchen
 There was also a brief window where I was sleeping out of my car going cross-country (pictured). 
 --> 
 
-Currently in the process of revamping my personal Github and website.
+<!-- Currently in the process of revamping my personal Github and website. -->
 
 <!-- --- --> 
 
