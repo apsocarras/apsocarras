@@ -11,6 +11,8 @@
 
 Data Engineer / Developer at [World Central Kitchen](https://worldcentralkitchen.org/) 
 
+(Personal/non-work account)
+
 <!-- 
 #### I was a data analyst working in public health before taking a turn towards software development.
 
