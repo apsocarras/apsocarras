@@ -9,7 +9,7 @@
 
 <!-- <h3 align="center">(View my current portfolio <a href="https://alexsocarras.com">here</a>)</h2> -->
 
-Data Engineer / Developer at [World Central Kitchen](https://worldcentralkitchen.org/) 
+Software Engineer (Data Platform) at [BLA](https://www.bigleagueadvantage.com/) (ML for Sports Analytics)
 
 (Personal/non-work account)
 
